@@ -3,4 +3,8 @@ Hello World
 Jamaica is Gritty.
 
 So Long
+<<<<<<< HEAD
 See you later Alligator
+=======
+In a while crocodile
+>>>>>>> ec4849f323a7130a8f7438f8c064eb8d59d8af01
