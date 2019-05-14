@@ -1,4 +1,8 @@
 This project is stupid and I don't know why we're doing it again.
 
 Jamaica did it.
+<<<<<<< HEAD
 Hello danzing
+=======
+Goodbye
+>>>>>>> bcda8294ab39199be422e196103ab9d1314c89a1
